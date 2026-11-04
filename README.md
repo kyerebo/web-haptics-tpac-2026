@@ -1,4 +1,4 @@
-# Web Haptics at TPAC 2027
+# Web Haptics at TPAC 2026
 
 An approximately 15-minute HTML slide deck introducing semantic Web Haptics to
 the Devices and Sensors Working Group.
